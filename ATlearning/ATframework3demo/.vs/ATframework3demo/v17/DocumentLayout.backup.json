@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\TestCases\\Case_Bitrix24_Project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestCases\\Case_Bitrix24_Project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\TestCases\\Case_Bitrix24_Disk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestCases\\Case_Bitrix24_Disk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\PageObjects\\Group\\GroupCreatedProjectMainPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PageObjects\\Group\\GroupCreatedProjectMainPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\SeleniumFramework\\DriverActions\\WebDriverActions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SeleniumFramework\\DriverActions\\WebDriverActions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\SeleniumFramework\\DriverActions\\MobileDriverActions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SeleniumFramework\\DriverActions\\MobileDriverActions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\SeleniumFramework\\DriverActions\\BaseDriverActions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SeleniumFramework\\DriverActions\\BaseDriverActions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\PageObjects\\Group\\GroupProjectMembersPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PageObjects\\Group\\GroupProjectMembersPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\PageObjects\\Group\\GroupProjectCreationPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PageObjects\\Group\\GroupProjectCreationPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\PageObjects\\Group\\GroupPrivacyLevelsPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PageObjects\\Group\\GroupPrivacyLevelsPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\PageObjects\\Group\\GroupMembersListPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PageObjects\\Group\\GroupMembersListPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\PageObjects\\Group\\GroupBasePage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PageObjects\\Group\\GroupBasePage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\PageObjects\\Group\\GroupAboutProjectPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PageObjects\\Group\\GroupAboutProjectPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GroupProjectMembersPage.cs",
+              "DocumentMoniker": "C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\PageObjects\\Group\\GroupProjectMembersPage.cs",
+              "RelativeDocumentMoniker": "PageObjects\\Group\\GroupProjectMembersPage.cs",
+              "ToolTip": "C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\PageObjects\\Group\\GroupProjectMembersPage.cs",
+              "RelativeToolTip": "PageObjects\\Group\\GroupProjectMembersPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:10:10.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GroupProjectCreationPage.cs",
+              "DocumentMoniker": "C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\PageObjects\\Group\\GroupProjectCreationPage.cs",
+              "RelativeDocumentMoniker": "PageObjects\\Group\\GroupProjectCreationPage.cs",
+              "ToolTip": "C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\PageObjects\\Group\\GroupProjectCreationPage.cs",
+              "RelativeToolTip": "PageObjects\\Group\\GroupProjectCreationPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:10:08.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Case_Bitrix24_Project.cs",
+              "DocumentMoniker": "C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\TestCases\\Case_Bitrix24_Project.cs",
+              "RelativeDocumentMoniker": "TestCases\\Case_Bitrix24_Project.cs",
+              "ToolTip": "C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\TestCases\\Case_Bitrix24_Project.cs",
+              "RelativeToolTip": "TestCases\\Case_Bitrix24_Project.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:31:05.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GroupCreatedProjectMainPage.cs",
+              "DocumentMoniker": "C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\PageObjects\\Group\\GroupCreatedProjectMainPage.cs",
+              "RelativeDocumentMoniker": "PageObjects\\Group\\GroupCreatedProjectMainPage.cs",
+              "ToolTip": "C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\PageObjects\\Group\\GroupCreatedProjectMainPage.cs",
+              "RelativeToolTip": "PageObjects\\Group\\GroupCreatedProjectMainPage.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:01:41.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Case_Bitrix24_Disk.cs",
+              "DocumentMoniker": "C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\TestCases\\Case_Bitrix24_Disk.cs",
+              "RelativeDocumentMoniker": "TestCases\\Case_Bitrix24_Disk.cs",
+              "ToolTip": "C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\TestCases\\Case_Bitrix24_Disk.cs",
+              "RelativeToolTip": "TestCases\\Case_Bitrix24_Disk.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T20:55:48.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseDriverActions.cs",
+              "DocumentMoniker": "C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\SeleniumFramework\\DriverActions\\BaseDriverActions.cs",
+              "RelativeDocumentMoniker": "SeleniumFramework\\DriverActions\\BaseDriverActions.cs",
+              "ToolTip": "C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\SeleniumFramework\\DriverActions\\BaseDriverActions.cs",
+              "RelativeToolTip": "SeleniumFramework\\DriverActions\\BaseDriverActions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:10:12.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MobileDriverActions.cs",
+              "DocumentMoniker": "C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\SeleniumFramework\\DriverActions\\MobileDriverActions.cs",
+              "RelativeDocumentMoniker": "SeleniumFramework\\DriverActions\\MobileDriverActions.cs",
+              "ToolTip": "C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\SeleniumFramework\\DriverActions\\MobileDriverActions.cs",
+              "RelativeToolTip": "SeleniumFramework\\DriverActions\\MobileDriverActions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:10:13.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebDriverActions.cs",
+              "DocumentMoniker": "C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\SeleniumFramework\\DriverActions\\WebDriverActions.cs",
+              "RelativeDocumentMoniker": "SeleniumFramework\\DriverActions\\WebDriverActions.cs",
+              "ToolTip": "C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\SeleniumFramework\\DriverActions\\WebDriverActions.cs",
+              "RelativeToolTip": "SeleniumFramework\\DriverActions\\WebDriverActions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:10:14.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GroupPrivacyLevelsPage.cs",
+              "DocumentMoniker": "C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\PageObjects\\Group\\GroupPrivacyLevelsPage.cs",
+              "RelativeDocumentMoniker": "PageObjects\\Group\\GroupPrivacyLevelsPage.cs",
+              "ToolTip": "C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\PageObjects\\Group\\GroupPrivacyLevelsPage.cs",
+              "RelativeToolTip": "PageObjects\\Group\\GroupPrivacyLevelsPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:10:07.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GroupMembersListPage.cs",
+              "DocumentMoniker": "C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\PageObjects\\Group\\GroupMembersListPage.cs",
+              "RelativeDocumentMoniker": "PageObjects\\Group\\GroupMembersListPage.cs",
+              "ToolTip": "C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\PageObjects\\Group\\GroupMembersListPage.cs",
+              "RelativeToolTip": "PageObjects\\Group\\GroupMembersListPage.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:06:17.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GroupAboutProjectPage.cs",
+              "DocumentMoniker": "C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\PageObjects\\Group\\GroupAboutProjectPage.cs",
+              "RelativeDocumentMoniker": "PageObjects\\Group\\GroupAboutProjectPage.cs",
+              "ToolTip": "C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\PageObjects\\Group\\GroupAboutProjectPage.cs",
+              "RelativeToolTip": "PageObjects\\Group\\GroupAboutProjectPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:01:38.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GroupBasePage.cs",
+              "DocumentMoniker": "C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\PageObjects\\Group\\GroupBasePage.cs",
+              "RelativeDocumentMoniker": "PageObjects\\Group\\GroupBasePage.cs",
+              "ToolTip": "C:\\SourceTreeRepos\\autotest_exercise-5\\ATlearning\\ATframework3demo\\PageObjects\\Group\\GroupBasePage.cs",
+              "RelativeToolTip": "PageObjects\\Group\\GroupBasePage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T20:54:18.248Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1226,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 329,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
