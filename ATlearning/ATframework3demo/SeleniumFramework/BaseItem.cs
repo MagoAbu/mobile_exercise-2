@@ -193,5 +193,18 @@ namespace atFrameWork2.SeleniumFramework
         {
             Log.Info($"{actionTitle}: " + DescriptionFull);
         }
+
+        public string GetText(IWebDriver driver = default)
+        {
+            string elementText = default;
+
+            Execute((targetElement, drv) =>
+            {
+                elementText = targetElement.Text;
+            }, driver);
+
+            PrintActionInfo($"Получен текст '{elementText}'. Элемент: {DescriptionFull}");
+            return elementText;
+        }
     }
 }

@@ -16,7 +16,7 @@ namespace atFrameWork2.SeleniumFramework
             var appiumOptions = new AppiumOptions();
             appiumOptions.PlatformName = "Android";
             appiumOptions.AutomationName = "UiAutomator2"; // Драйвер для автоматизации
-            appiumOptions.App = "/path/to/your/bitrix24_stable.apk"; // Путь к приложению
+            appiumOptions.App = "C:\\APK\\bitrix24_stable.apk"; // Путь к приложению
             appiumOptions.AddAdditionalAppiumOption(MobileCapabilityType.Udid, "emulator-5554"); // Уникальный идентификатор устройства
             appiumOptions.AddAdditionalAppiumOption(MobileCapabilityType.NoReset, false); // Не сбрасывать состояние приложения
             appiumOptions.AddAdditionalAppiumOption(MobileCapabilityType.FullReset, false); // Выполнить полный сброс состояния
@@ -24,7 +24,7 @@ namespace atFrameWork2.SeleniumFramework
             appiumOptions.AddAdditionalAppiumOption(AndroidMobileCapabilityType.AutoGrantPermissions, true); // Автоматом подтверждает уведомления
             var appiumHost = "http://127.0.0.1:4723";
             AppiumDriver driver = new AndroidDriver(new Uri($"{appiumHost}/"), appiumOptions);
-            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
+            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(30);
             return driver;
         }
     }
